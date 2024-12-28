@@ -19,3 +19,6 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
+
+Fiz a criação de uma vm com Kali na AWS e acessei pelo Termius. Esse foi meu resultado: 
