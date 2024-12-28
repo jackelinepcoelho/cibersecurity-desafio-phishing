@@ -16,6 +16,9 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
+### Nota
+Fiz a criação de uma VM Kali Linux na AWS e executei via Termius
+
 ### Resutados
 
 ![Alt text](Screenshot_2024-12-28-12-18-19-934_com.server.auditor.ssh.client.jpg)
