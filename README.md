@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](Screenshot_2024-12-28-12-18-19-934_com.server.auditor.ssh.client.jpg)
